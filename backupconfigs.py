@@ -25,3 +25,5 @@ for IP in f:
     saveoutput.write(readoutput.decode('ascii'))
     saveoutput.write("\n")
     saveoutput.close
+
+print("This was a success")
